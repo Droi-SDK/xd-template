@@ -1,0 +1,26 @@
+{
+  "universal":{
+    "AppName":"xd0000000001",
+    "AppId":"com.xiudian.xd0000000001",
+    "WeixinId":"my_weixin_id0000000001",
+    "WeixinKey":"my_weixin_key0000000001",
+    "QQId":"my_qq_id0000000001",
+    "QQKey":"my_qq_key0000000001",
+    "WeiboId":"my_weibo_id0000000001",
+    "WeiboKey":"my_weibo_key0000000001",
+    "BaaSAppId":"my_baas_appid0000000001",
+    "BaaSPushKey":"my_baas_pushkey0000000001",
+    "BaaSFeedbackKey":"my_baas_feedbackkey0000000001",
+    "BaaSSelfupdateKey":"my_baas_selfupdatekey0000000001",
+    "BaaSApiKey":"my_apikey0000000001",
+    "XDId":"xd0000000001"
+  },
+  "android":{
+    "VersionName": "1.0.0",
+    "VersionCode": "1"
+  },
+  "ios":{
+    "Version": "1.0.0",
+    "BuildVersion": "1"
+  }
+}

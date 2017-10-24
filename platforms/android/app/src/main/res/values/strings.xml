@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">xd0000000001</string>
+    <string name="dummy_content">WEEX\nPLAYGROUND</string>
+    <string name="capture_qrcode_prompt">请将条码置于取景框内扫描</string>
+    <string name="cpu_not_support_tip">Sorry, your current device is x86 architecture.\n We only
+        support arm architecture devices!
+    </string>
+    <string name="index_tip">Network Error!\n1.Make sure you use the command "npm run serve"
+        launched local service\n2.Make sure you modify "your_current_ip" to your local IP in
+        "WXMainActivity"
+    </string>
+    <string name="scan_qr_code">scan</string>
+    <string name="page_refresh">refresh</string>
+    <string name="click_to_skip">"%1$d 跳过"</string>
+
+    <string name="droi_socialize_key_wechat">微信</string>
+    <string name="droi_socialize_key_wechat_circle">微信朋友圈</string>
+    <string name="droi_socialize_key_wechat_favorite">微信收藏</string>
+    <string name="droi_socialize_key_qq">QQ好友</string>
+    <string name="droi_socialize_key_qzone">QQ空间</string>
+    <string name="droi_socialize_key_sina">新浪微博</string>
+
+</resources>

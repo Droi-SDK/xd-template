@@ -1,0 +1,40 @@
+PODS:
+  - DroiAnalyticsSDK (0.0.5):
+    - DroiCoreSDK
+  - DroiCoreSDK (1.1.2672)
+  - DroiFeedbackSDK (1.0.1):
+    - DroiCoreSDK
+    - MBProgressHUD
+    - SDWebImage
+  - DroiPushSDK (2.0.1):
+    - DroiCoreSDK
+  - DroiSelfupdateSDK (0.0.3):
+    - DroiCoreSDK
+  - MBProgressHUD (1.0.0)
+  - SDWebImage (4.1.2):
+    - SDWebImage/Core (= 4.1.2)
+  - SDWebImage/Core (4.1.2)
+  - WeexSDK (0.16.2)
+
+DEPENDENCIES:
+  - DroiAnalyticsSDK
+  - DroiCoreSDK
+  - DroiFeedbackSDK
+  - DroiPushSDK
+  - DroiSelfupdateSDK
+  - SDWebImage
+  - WeexSDK
+
+SPEC CHECKSUMS:
+  DroiAnalyticsSDK: d9f891a72621b8927666b1ccbf5f8ec9ad5310a8
+  DroiCoreSDK: caca53f82998e8a675519906d7cf1d251f51aa92
+  DroiFeedbackSDK: 4b2d1e1278889cbb2a1eb767e4ca03dbbb7af2e8
+  DroiPushSDK: 2814d381b8385727b2894a7d70112b658168aa8f
+  DroiSelfupdateSDK: c914cfda310bddb73b5b965ec7033eabfdb5f9c5
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SDWebImage: cb6f9f266a9977741efcbc21e618e8be3734c774
+  WeexSDK: 854ef66c9a90d609ad60e87c8b76affe2b772224
+
+PODFILE CHECKSUM: 5d59ecfcf5d166520ebb2d411a2a4643f23abc58
+
+COCOAPODS: 1.3.1

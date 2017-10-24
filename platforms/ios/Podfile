@@ -1,0 +1,22 @@
+source 'git@github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+#inhibit_all_warnings!
+
+def common
+    pod 'WeexSDK'
+    pod 'SDWebImage'
+    pod 'DroiPushSDK'
+    pod 'DroiAnalyticsSDK'
+    pod 'DroiSelfupdateSDK'
+    pod 'DroiFeedbackSDK'
+    pod 'DroiCoreSDK'
+    post_install do |installer|
+        require './Pods/DroiCoreSDK/scripts/postInstall.rb'
+        DroiCoreParser.installParser()
+    end
+end
+
+target 'WeeXTemplate' do
+    common
+end
+
